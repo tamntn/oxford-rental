@@ -1,0 +1,19 @@
+FUNCTION:
+- View Transactions
+
+
+IMPROVEMENT:
+- Welcome page
+- Fix affix allocation (not working properly) - The wrong part is the smooth scrolling method
+- Details modal on Estimated Cost (change content - already implement modal)
+- Add Bootstrap Form Helpers: http://js.nicdn.de/bootstrap/formhelpers/docs/index.html
+- Shadow navbar on all pages (already did on account.php)
+- Make scrollspy fade
+- On-click confirmation for deletion
+- Pick a color scheme for the whole site
+- Error for reservationConfirmation page.
+
+
+FIX:
+- Map Zoom on Mobile
+- Account affix nav bar not working correctly

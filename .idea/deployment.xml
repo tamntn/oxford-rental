@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="OlemissTuring2">
+    <serverData>
+      <paths name="OlemissTuring2">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/public_html/finalproject" local="$PROJECT_DIR$" web="/~tnnguye1/finalproject" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
